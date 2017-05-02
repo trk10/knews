@@ -6,3 +6,6 @@ target/*
 .factorypath
 .project
 /target/
+
+.idea/*
+.DS_STORE

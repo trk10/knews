@@ -1,6 +1,6 @@
 ---
 applications:
- - name: GetStartedTomcat
+ - name: knews
    random-route: true
    path: target/GetStartedTomcat.war
    memory: 256M
